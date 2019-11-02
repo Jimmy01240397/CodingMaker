@@ -1,0 +1,169 @@
+M:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe.config
+M:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csprojResolveAssemblyReference.cache
+M:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Form1.resources
+M:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Properties.Resources.resources
+M:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csproj.GenerateResource.Cache
+M:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe
+M:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.pdb
+M:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.exe
+M:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.pdb
+F:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe.config
+F:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.exe
+F:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.pdb
+F:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe
+F:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.pdb
+F:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csprojResolveAssemblyReference.cache
+F:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Form1.resources
+F:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Properties.Resources.resources
+F:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csproj.GenerateResource.Cache
+G:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe.config
+G:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.exe
+G:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.pdb
+M:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.NewFile.resources
+G:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe
+G:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.pdb
+G:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csprojResolveAssemblyReference.cache
+G:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Form1.resources
+G:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.NewFile.resources
+G:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Properties.Resources.resources
+G:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csproj.GenerateResource.Cache
+F:\資料(備份)\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe.config
+F:\資料(備份)\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.exe
+F:\資料(備份)\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.pdb
+F:\資料(備份)\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe
+F:\資料(備份)\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.pdb
+F:\資料(備份)\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csprojResolveAssemblyReference.cache
+F:\資料(備份)\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Form1.resources
+F:\資料(備份)\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.NewFile.resources
+F:\資料(備份)\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Properties.Resources.resources
+F:\資料(備份)\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csproj.GenerateResource.Cache
+H:\資料(備份)\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe.config
+H:\資料(備份)\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.exe
+H:\資料(備份)\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.pdb
+D:\Sony_128GU\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe.config
+D:\Sony_128GU\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.exe
+D:\Sony_128GU\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.pdb
+D:\Sony_128GU\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe
+D:\Sony_128GU\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.pdb
+D:\Sony_128GU\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csprojResolveAssemblyReference.cache
+D:\Sony_128GU\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Form1.resources
+D:\Sony_128GU\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.NewFile.resources
+D:\Sony_128GU\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Properties.Resources.resources
+D:\Sony_128GU\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csproj.GenerateResource.Cache
+H:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe.config
+H:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.exe
+H:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.pdb
+H:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe.manifest
+H:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.application
+H:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe
+H:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.pdb
+H:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csprojResolveAssemblyReference.cache
+H:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Form1.resources
+H:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.NewFile.resources
+H:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Properties.Resources.resources
+H:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csproj.GenerateResource.Cache
+H:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.exe.manifest
+H:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.application
+H:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\SizeAndLocation.dll
+H:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\SizeAndLocation.pdb
+G:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe.manifest
+G:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.application
+G:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\SizeAndLocation.dll
+G:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\SizeAndLocation.pdb
+G:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.exe.manifest
+G:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.application
+L:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe.config
+L:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.exe
+L:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.pdb
+L:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe.manifest
+L:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.application
+L:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe
+L:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.pdb
+L:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\SizeAndLocation.dll
+L:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\SizeAndLocation.pdb
+L:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csprojResolveAssemblyReference.cache
+L:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Form1.resources
+L:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.NewFile.resources
+L:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Properties.Resources.resources
+L:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csproj.GenerateResource.Cache
+L:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.exe.manifest
+L:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.application
+F:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe.manifest
+F:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.application
+F:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\SizeAndLocation.dll
+F:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\SizeAndLocation.pdb
+F:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.NewFile.resources
+F:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.exe.manifest
+F:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.application
+J:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe.config
+J:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.exe
+J:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.pdb
+J:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe.manifest
+J:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.application
+J:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe
+J:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.pdb
+J:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\SizeAndLocation.dll
+J:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\SizeAndLocation.pdb
+J:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csprojResolveAssemblyReference.cache
+J:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Form1.resources
+J:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.NewFile.resources
+J:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Properties.Resources.resources
+J:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csproj.GenerateResource.Cache
+J:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.exe.manifest
+J:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.application
+E:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe.config
+E:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.exe
+E:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.pdb
+E:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe.manifest
+E:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.application
+E:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe
+E:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.pdb
+E:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\SizeAndLocation.dll
+E:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\SizeAndLocation.pdb
+E:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csprojResolveAssemblyReference.cache
+E:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Form1.resources
+E:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.NewFile.resources
+E:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Properties.Resources.resources
+E:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csproj.GenerateResource.Cache
+E:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.exe.manifest
+E:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.application
+C:\Users\user\Desktop\新增資料夾\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe.config
+C:\Users\user\Desktop\新增資料夾\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.exe
+C:\Users\user\Desktop\新增資料夾\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.pdb
+C:\Users\user\Desktop\新增資料夾\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe.manifest
+C:\Users\user\Desktop\新增資料夾\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.application
+C:\Users\user\Desktop\新增資料夾\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe
+C:\Users\user\Desktop\新增資料夾\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.pdb
+C:\Users\user\Desktop\新增資料夾\CSharpMaker\CSharpMaker\bin\Debug\SizeAndLocation.dll
+C:\Users\user\Desktop\新增資料夾\CSharpMaker\CSharpMaker\bin\Debug\SizeAndLocation.pdb
+C:\Users\user\Desktop\新增資料夾\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\新增資料夾\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Form1.resources
+C:\Users\user\Desktop\新增資料夾\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.NewFile.resources
+C:\Users\user\Desktop\新增資料夾\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Properties.Resources.resources
+C:\Users\user\Desktop\新增資料夾\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\新增資料夾\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.exe.manifest
+C:\Users\user\Desktop\新增資料夾\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.application
+F:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\PictureProgram.dll
+F:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\PictureProgram.pdb
+E:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\PictureProgram.dll
+E:\資料\C語言編輯器\新文件\CSharpMaker\CSharpMaker\bin\Debug\PictureProgram.pdb
+L:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe.config
+L:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe.manifest
+L:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.application
+L:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe
+L:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.pdb
+L:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\bin\Debug\PictureProgram.dll
+L:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\bin\Debug\SizeAndLocation.dll
+L:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\bin\Debug\PictureProgram.pdb
+L:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\bin\Debug\SizeAndLocation.pdb
+L:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csprojAssemblyReference.cache
+L:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Form1.resources
+L:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.NewFile.resources
+L:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Properties.Resources.resources
+L:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csproj.GenerateResource.cache
+L:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csproj.CoreCompileInputs.cache
+L:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.exe.manifest
+L:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.application
+L:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csproj.CopyComplete
+L:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.exe
+L:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.pdb

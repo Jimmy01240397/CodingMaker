@@ -1,0 +1,21 @@
+F:\資料\C語言編輯器\新文件\CSharpMaker\PictureProgram\bin\Debug\PictureProgram.dll
+F:\資料\C語言編輯器\新文件\CSharpMaker\PictureProgram\bin\Debug\PictureProgram.pdb
+F:\資料\C語言編輯器\新文件\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.csprojResolveAssemblyReference.cache
+F:\資料\C語言編輯器\新文件\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.Properties.Resources.resources
+F:\資料\C語言編輯器\新文件\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.csproj.GenerateResource.Cache
+F:\資料\C語言編輯器\新文件\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.dll
+F:\資料\C語言編輯器\新文件\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.pdb
+F:\資料\C語言編輯器\新文件\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.PictureProgram.resources
+F:\資料\C語言編輯器\新文件\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.SetProgramForInclude.resources
+F:\資料\C語言編輯器\新文件\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.SetProgramForVariable.resources
+L:\Data\C Studio\My Project\CSharpMaker\PictureProgram\bin\Debug\PictureProgram.dll
+L:\Data\C Studio\My Project\CSharpMaker\PictureProgram\bin\Debug\PictureProgram.pdb
+L:\Data\C Studio\My Project\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.csprojAssemblyReference.cache
+L:\Data\C Studio\My Project\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.Properties.Resources.resources
+L:\Data\C Studio\My Project\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.PictureProgram.resources
+L:\Data\C Studio\My Project\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.SetProgramForInclude.resources
+L:\Data\C Studio\My Project\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.SetProgramForVariable.resources
+L:\Data\C Studio\My Project\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.csproj.GenerateResource.cache
+L:\Data\C Studio\My Project\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.csproj.CoreCompileInputs.cache
+L:\Data\C Studio\My Project\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.dll
+L:\Data\C Studio\My Project\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.pdb

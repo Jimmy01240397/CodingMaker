@@ -1,0 +1,31 @@
+H:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\bin\Debug\SizeAndLocation.dll
+H:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\bin\Debug\SizeAndLocation.pdb
+H:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\obj\Debug\SizeAndLocation.csprojResolveAssemblyReference.cache
+H:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\obj\Debug\SizeAndLocation.dll
+H:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\obj\Debug\SizeAndLocation.pdb
+G:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\bin\Debug\SizeAndLocation.dll
+G:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\bin\Debug\SizeAndLocation.pdb
+G:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\obj\Debug\SizeAndLocation.csprojResolveAssemblyReference.cache
+G:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\obj\Debug\SizeAndLocation.dll
+G:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\obj\Debug\SizeAndLocation.pdb
+L:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\bin\Debug\SizeAndLocation.dll
+L:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\bin\Debug\SizeAndLocation.pdb
+L:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\obj\Debug\SizeAndLocation.csprojResolveAssemblyReference.cache
+L:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\obj\Debug\SizeAndLocation.dll
+L:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\obj\Debug\SizeAndLocation.pdb
+F:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\bin\Debug\SizeAndLocation.dll
+F:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\bin\Debug\SizeAndLocation.pdb
+F:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\obj\Debug\SizeAndLocation.csprojResolveAssemblyReference.cache
+F:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\obj\Debug\SizeAndLocation.dll
+F:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\obj\Debug\SizeAndLocation.pdb
+J:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\bin\Debug\SizeAndLocation.dll
+J:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\bin\Debug\SizeAndLocation.pdb
+J:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\obj\Debug\SizeAndLocation.csprojResolveAssemblyReference.cache
+J:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\obj\Debug\SizeAndLocation.dll
+J:\資料\C語言編輯器\新文件\CSharpMaker\SizeAndLocation\obj\Debug\SizeAndLocation.pdb
+L:\Data\C Studio\My Project\CSharpMaker\SizeAndLocation\bin\Debug\SizeAndLocation.dll
+L:\Data\C Studio\My Project\CSharpMaker\SizeAndLocation\bin\Debug\SizeAndLocation.pdb
+L:\Data\C Studio\My Project\CSharpMaker\SizeAndLocation\obj\Debug\SizeAndLocation.csprojAssemblyReference.cache
+L:\Data\C Studio\My Project\CSharpMaker\SizeAndLocation\obj\Debug\SizeAndLocation.csproj.CoreCompileInputs.cache
+L:\Data\C Studio\My Project\CSharpMaker\SizeAndLocation\obj\Debug\SizeAndLocation.dll
+L:\Data\C Studio\My Project\CSharpMaker\SizeAndLocation\obj\Debug\SizeAndLocation.pdb
