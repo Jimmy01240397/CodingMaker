@@ -1,0 +1,5 @@
+O:\Data\C Studio\My Project\CSharpMaker\SizeAndLocation\bin\Release\SizeAndLocation.dll
+O:\Data\C Studio\My Project\CSharpMaker\SizeAndLocation\bin\Release\SizeAndLocation.pdb
+O:\Data\C Studio\My Project\CSharpMaker\SizeAndLocation\obj\Release\SizeAndLocation.csproj.CoreCompileInputs.cache
+O:\Data\C Studio\My Project\CSharpMaker\SizeAndLocation\obj\Release\SizeAndLocation.dll
+O:\Data\C Studio\My Project\CSharpMaker\SizeAndLocation\obj\Release\SizeAndLocation.pdb

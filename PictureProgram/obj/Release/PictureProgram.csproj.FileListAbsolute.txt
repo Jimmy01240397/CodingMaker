@@ -1,0 +1,11 @@
+O:\Data\C Studio\My Project\CSharpMaker\PictureProgram\bin\Release\PictureProgram.dll
+O:\Data\C Studio\My Project\CSharpMaker\PictureProgram\bin\Release\PictureProgram.pdb
+O:\Data\C Studio\My Project\CSharpMaker\PictureProgram\obj\Release\PictureProgram.csproj.AssemblyReference.cache
+O:\Data\C Studio\My Project\CSharpMaker\PictureProgram\obj\Release\PictureProgram.Properties.Resources.resources
+O:\Data\C Studio\My Project\CSharpMaker\PictureProgram\obj\Release\PictureProgram.PictureProgram.resources
+O:\Data\C Studio\My Project\CSharpMaker\PictureProgram\obj\Release\PictureProgram.SetProgramForInclude.resources
+O:\Data\C Studio\My Project\CSharpMaker\PictureProgram\obj\Release\PictureProgram.SetProgramForVariable.resources
+O:\Data\C Studio\My Project\CSharpMaker\PictureProgram\obj\Release\PictureProgram.csproj.GenerateResource.cache
+O:\Data\C Studio\My Project\CSharpMaker\PictureProgram\obj\Release\PictureProgram.csproj.CoreCompileInputs.cache
+O:\Data\C Studio\My Project\CSharpMaker\PictureProgram\obj\Release\PictureProgram.dll
+O:\Data\C Studio\My Project\CSharpMaker\PictureProgram\obj\Release\PictureProgram.pdb
