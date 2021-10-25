@@ -64,9 +64,9 @@
     <SignManifests>false</SignManifests>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ScintillaNet, Version=2.6.0.0, Culture=neutral, PublicKeyToken=948d6c9751444115, processorArchitecture=MSIL">
+    <Reference Include="ScintillaNET, Version=2.6.0.0, Culture=neutral, PublicKeyToken=948d6c9751444115, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\ScintillaNet.dll</HintPath>
+      <HintPath>..\ScintillaNET\bin\Debug\ScintillaNET.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />

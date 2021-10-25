@@ -26,20 +26,16 @@ namespace CSharpMaker
         {
             InitializeComponent();
 
-            _Size = new Sizes[6] 
+            _Size = new Sizes[4] 
             { 
                 new Sizes(this.Size, tabControl1.Size), 
-                new Sizes(this.Size, panel1.Size), 
-                new Sizes(this.Size, panel2.Size), 
                 new Sizes(this.Size, panel3.Size), 
                 new Sizes(this.Size, listBox1.Size),
                 null 
             };
-            _Location = new Locations[6] 
+            _Location = new Locations[4] 
             { 
                 new Locations(this.Size, tabControl1.Location),
-                new Locations(this.Size, panel1.Location), 
-                new Locations(this.Size, panel2.Location), 
                 new Locations(this.Size, panel3.Location),
                 new Locations(this.Size, listBox1.Location),
                 null 
@@ -59,22 +55,15 @@ namespace CSharpMaker
 
         private void Form1_Resize(object sender, EventArgs e)
         {
-            _Size[0].SetSize(this.Size, 3, 1);
-            _Location[0].SetLocation(this.Size, 1.5, 0);
-            _Size[1].SetSize(this.Size, 3, 1);
-            _Location[1].SetLocation(this.Size, 3, 0);
-            _Size[2].SetSize(this.Size, 3, 1);
-            _Size[3].SetSize(this.Size, 1, 0);
-            _Location[3].SetLocation(this.Size, 0, 1);
-            _Size[4].SetSize(this.Size, 1, 0);
+            _Size[0].SetSize(this.Size, 1, 1);
+            _Size[1].SetSize(this.Size, 1, 0);
+            _Location[1].SetLocation(this.Size, 0, 1);
+            _Size[2].SetSize(this.Size, 1, 0);
             tabControl1.Size = _Size[0]._OdjectSize;
             tabControl1.Location = _Location[0]._OdjectLocation;
-            panel1.Size = _Size[1]._OdjectSize;
-            panel1.Location = _Location[1]._OdjectLocation;
-            panel2.Size = _Size[2]._OdjectSize;
-            panel3.Size = _Size[3]._OdjectSize;
-            panel3.Location = _Location[3]._OdjectLocation;
-            listBox1.Size = _Size[4]._OdjectSize;
+            panel3.Size = _Size[1]._OdjectSize;
+            panel3.Location = _Location[1]._OdjectLocation;
+            listBox1.Size = _Size[2]._OdjectSize;
         }
 
         private void button1_Click(object sender, EventArgs e)

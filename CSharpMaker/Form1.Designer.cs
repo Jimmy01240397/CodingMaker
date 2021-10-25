@@ -80,9 +80,6 @@
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.process1 = new System.Diagnostics.Process();
             this.listBox1 = new System.Windows.Forms.ListBox();
             this.label2 = new System.Windows.Forms.Label();
@@ -101,8 +98,6 @@
             this.tabPage1.SuspendLayout();
             this.toolStrip1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
-            this.panel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel3.SuspendLayout();
             this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -110,10 +105,10 @@
             // tabControl1
             // 
             this.tabControl1.Controls.Add(this.tabPage1);
-            this.tabControl1.Location = new System.Drawing.Point(692, 58);
+            this.tabControl1.Location = new System.Drawing.Point(8, 58);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(580, 388);
+            this.tabControl1.Size = new System.Drawing.Size(1264, 388);
             this.tabControl1.TabIndex = 0;
             // 
             // tabPage1
@@ -125,7 +120,7 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(572, 362);
+            this.tabPage1.Size = new System.Drawing.Size(1256, 362);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "開始";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -133,7 +128,7 @@
             // label1
             // 
             this.label1.Font = new System.Drawing.Font("新細明體", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.label1.Location = new System.Drawing.Point(236, 56);
+            this.label1.Location = new System.Drawing.Point(554, 50);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(158, 64);
             this.label1.TabIndex = 3;
@@ -141,7 +136,7 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(209, 275);
+            this.button3.Location = new System.Drawing.Point(527, 269);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(200, 50);
             this.button3.TabIndex = 2;
@@ -151,7 +146,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(209, 202);
+            this.button2.Location = new System.Drawing.Point(527, 196);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(200, 50);
             this.button2.TabIndex = 1;
@@ -161,7 +156,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(209, 132);
+            this.button1.Location = new System.Drawing.Point(527, 126);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(200, 50);
             this.button1.TabIndex = 0;
@@ -548,34 +543,6 @@
             // 
             this.saveFileDialog1.Filter = "C語言|*.c|Visual C#|*.cs|HTML檔|*.html|XML檔|*.xml|所有檔案|*.*";
             // 
-            // panel1
-            // 
-            this.panel1.AutoScroll = true;
-            this.panel1.BackColor = System.Drawing.Color.DarkGray;
-            this.panel1.Location = new System.Drawing.Point(306, 67);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(369, 379);
-            this.panel1.TabIndex = 3;
-            // 
-            // panel2
-            // 
-            this.panel2.AutoScroll = true;
-            this.panel2.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.panel2.Controls.Add(this.pictureBox1);
-            this.panel2.Location = new System.Drawing.Point(12, 67);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(276, 379);
-            this.panel2.TabIndex = 1;
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.BackColor = System.Drawing.SystemColors.Control;
-            this.pictureBox1.Location = new System.Drawing.Point(3, 13);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(206, 36);
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
-            // 
             // process1
             // 
             this.process1.StartInfo.CreateNoWindow = true;
@@ -700,8 +667,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1284, 661);
             this.Controls.Add(this.panel3);
-            this.Controls.Add(this.panel2);
-            this.Controls.Add(this.panel1);
             this.Controls.Add(this.toolStrip1);
             this.Controls.Add(this.menuStrip1);
             this.Controls.Add(this.tabControl1);
@@ -717,8 +682,6 @@
             this.toolStrip1.PerformLayout();
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
-            this.panel2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel3.ResumeLayout(false);
             this.panel3.PerformLayout();
             this.contextMenuStrip1.ResumeLayout(false);
@@ -771,9 +734,6 @@
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.ToolStripButton toolStripButton10;
         private System.Windows.Forms.SaveFileDialog saveFileDialog1;
-        private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.ToolStripButton toolStripButton11;
         private System.Windows.Forms.ToolStripMenuItem 執行ToolStripMenuItem;
         private System.Diagnostics.Process process1;
