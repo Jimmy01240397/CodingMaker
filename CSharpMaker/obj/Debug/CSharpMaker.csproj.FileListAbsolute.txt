@@ -189,3 +189,26 @@ O:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csproj
 O:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.exe
 O:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.pdb
 O:\Data\C Studio\My Project\CSharpMaker\CSharpMaker\bin\Debug\ScintillaNET.dll
+C:\Users\user\source\repos\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe.config
+C:\Users\user\source\repos\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe.manifest
+C:\Users\user\source\repos\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.application
+C:\Users\user\source\repos\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.exe
+C:\Users\user\source\repos\CSharpMaker\CSharpMaker\bin\Debug\CSharpMaker.pdb
+C:\Users\user\source\repos\CSharpMaker\CSharpMaker\bin\Debug\PictureProgram.dll
+C:\Users\user\source\repos\CSharpMaker\CSharpMaker\bin\Debug\ScintillaNET.dll
+C:\Users\user\source\repos\CSharpMaker\CSharpMaker\bin\Debug\SizeAndLocation.dll
+C:\Users\user\source\repos\CSharpMaker\CSharpMaker\bin\Debug\PictureProgram.pdb
+C:\Users\user\source\repos\CSharpMaker\CSharpMaker\bin\Debug\SizeAndLocation.pdb
+C:\Users\user\source\repos\CSharpMaker\CSharpMaker\bin\Debug\ScintillaNET.pdb
+C:\Users\user\source\repos\CSharpMaker\CSharpMaker\bin\Debug\ScintillaNET.xml
+C:\Users\user\source\repos\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Form1.resources
+C:\Users\user\source\repos\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.NewFile.resources
+C:\Users\user\source\repos\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.Properties.Resources.resources
+C:\Users\user\source\repos\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csproj.GenerateResource.cache
+C:\Users\user\source\repos\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.exe.manifest
+C:\Users\user\source\repos\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.application
+C:\Users\user\source\repos\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.csproj.CopyComplete
+C:\Users\user\source\repos\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.exe
+C:\Users\user\source\repos\CSharpMaker\CSharpMaker\obj\Debug\CSharpMaker.pdb

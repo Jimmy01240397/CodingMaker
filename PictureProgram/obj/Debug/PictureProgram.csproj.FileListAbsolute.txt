@@ -19,3 +19,14 @@ L:\Data\C Studio\My Project\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.
 L:\Data\C Studio\My Project\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.csproj.CoreCompileInputs.cache
 L:\Data\C Studio\My Project\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.dll
 L:\Data\C Studio\My Project\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.pdb
+C:\Users\user\source\repos\CSharpMaker\PictureProgram\bin\Debug\PictureProgram.dll
+C:\Users\user\source\repos\CSharpMaker\PictureProgram\bin\Debug\PictureProgram.pdb
+C:\Users\user\source\repos\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.Properties.Resources.resources
+C:\Users\user\source\repos\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.PictureProgram.resources
+C:\Users\user\source\repos\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.SetProgramForInclude.resources
+C:\Users\user\source\repos\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.SetProgramForVariable.resources
+C:\Users\user\source\repos\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.csproj.GenerateResource.cache
+C:\Users\user\source\repos\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.dll
+C:\Users\user\source\repos\CSharpMaker\PictureProgram\obj\Debug\PictureProgram.pdb

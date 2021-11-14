@@ -49,7 +49,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>m149LghTweOunijSDOGepqsvAr8=</dsig:DigestValue>
+        <dsig:DigestValue>GcJUD2mvg7itNEUL6wYB3jkOTXU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -61,19 +61,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>dOTKACc+Pc3jo5UKzrHt/twQTLI=</dsig:DigestValue>
+        <dsig:DigestValue>wKffUdFgx72/0UDYeCqTvm0kc0E=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ScintillaNET.dll" size="631808">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ScintillaNET.dll" size="569856">
       <assemblyIdentity name="ScintillaNET" version="2.6.0.0" publicKeyToken="948D6C9751444115" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>RPq5WA5Oq6Df1JrUvQ65CGb1IKk=</dsig:DigestValue>
+        <dsig:DigestValue>WDvs/fM9Z97/Jy1TQGXfg7iQxB4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -178,6 +178,10 @@
     <None Include="image\ImageFilePrintPreview.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>xcopy "$(ProjectDir)..\ScintillaNET\bin\Release\SciLexer*.*" "$(TargetDir)" /D /F /K /R /Y
+      xcopy "$(ProjectDir)\core" "$(TargetDir)\core"  /E /H /Y /I /C</PostBuildEvent>
+  </PropertyGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
